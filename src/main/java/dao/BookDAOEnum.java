@@ -20,10 +20,10 @@ public enum BookDAOEnum {
 	PreparedStatement preparedStatement = null;
 	ResultSet r = null;
 	
-	String user = "singhbav";
-    String password = "foZelind5";
+	String user = "...";
+    String password = "...";
     // Note none default port used, 6306 not 3306
-    String url = "jdbc:mysql://mudfoot.doc.stu.mmu.ac.uk:6306/" + user;
+    String url = "jdbc:mysql://...." + user;
 
  private BookDAOEnum() {
  }
